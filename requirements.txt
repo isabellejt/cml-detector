@@ -2,8 +2,6 @@ streamlit
 matplotlib
 numpy
 scikit-image
-skimage
-PIL
-scipy.ndimage
-skimage.measure
+Pillow
+scipy
 pandas
