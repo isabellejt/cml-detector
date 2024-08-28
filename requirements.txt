@@ -1,0 +1,8 @@
+streamlit
+matplotlib
+numpy
+skimage
+PIL
+scipy.ndimage
+skimage.measure
+pandas
