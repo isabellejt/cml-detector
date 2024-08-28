@@ -1,6 +1,7 @@
 streamlit
 matplotlib
 numpy
+scikit-image
 skimage
 PIL
 scipy.ndimage
